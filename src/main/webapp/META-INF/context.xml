@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/davifelipe">
+	<ResourceLink name="jdbc/davi_datasource" global="jdbc/davi_datasource" type="javax.sql.DataSource" />
+</Context>
